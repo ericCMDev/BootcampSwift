@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  MagicBall8App
+//  Magic 8 Ball
 //
 //  Created by Eric Cabestany Mena on 20/8/22.
 //
