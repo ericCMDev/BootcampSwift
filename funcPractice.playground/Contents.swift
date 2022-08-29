@@ -1,3 +1,4 @@
+import Darwin
 
 //exemple molt simple d'utilitzar una funció
 func greeting() {
@@ -40,3 +41,18 @@ func calculator() {
 }
 
 calculator()
+
+
+
+func isOdd(n: Int) -> Bool {
+    
+    if n % 2 != 0 {
+        return true
+    }
+    else {
+        return false
+    }
+}
+
+
+
