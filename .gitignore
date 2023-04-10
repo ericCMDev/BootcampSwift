@@ -2440,3 +2440,4 @@ Todoey/Pods/Target Support Files/SwipeCellKit/SwipeCellKit-prefix.pch
 Todoey/Pods/Target Support Files/SwipeCellKit/SwipeCellKit.debug.xcconfig
 Todoey/Pods/Target Support Files/SwipeCellKit/SwipeCellKit.modulemap
 Todoey/Pods/Target Support Files/SwipeCellKit/SwipeCellKit.release.xcconfig
+*.mlmodel
